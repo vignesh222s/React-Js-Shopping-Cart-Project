@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken briyani",
+    "price": 120,
+    "image": "https://recipes.timesofindia.com/thumb/69038542.cms?imgsize=563452&width=800&height=800",
+    "category": "food"
+  },
+  {
+    "id": 2,
+    "name": "Mutton briyani",
+    "price": 180,
+    "image": "https://recipes.timesofindia.com/thumb/52568357.cms?imgsize=158081&width=800&height=800",
+    "category": "food"
+  },
+  {
+    "id": 3,
+    "name": "Fish briyani",
+    "price": 160,
+    "image": "https://www.bigbasket.com/media/uploads/recipe/w-l/1025_1.jpg",
+    "category": "food"
+  },
+  {
+    "id": 4,
+    "name": "prawn briyani",
+    "price": 200,
+    "image": "https://s3.amazonaws.com/indiafoodnetwork/wp-content/uploads/2017/06/08122453/Manglorian-Prawns-Biryani-Without-Brand-Clean-Thumbnail3.jpg",
+    "category": "food"
+  },
+  {
+    "id": 5,
+    "name": "Chicken fried rice",
+    "price": 100,
+    "image": "http://kaaaz.in/wp-content/uploads/2018/05/chicken-fried-rice.jpg",
+    "category": "food"
+  },
+  {
+    "id": 6,
+    "name": "chicken 65",
+    "price": 80,
+    "image": "https://recipes.timesofindia.com/thumb/53683545.cms?imgsize=283664&width=800&height=800",
+    "category": "sidedish"
+  },
+  {
+    "id": 7,
+    "name": "Chicken burger",
+    "price": 100,
+    "image": "http://grocerystore.dukanlay.com/Content/Products/ProductImages/2341/Chicken-Burger-Al-Jaalsa1.jpg",
+    "category": "food"
+  },
+  {
+    "id": 8,
+    "name": "Veg burger",
+    "price": 80,
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/05/veggie-burger-recipe-5.jpg",
+    "category": "food"
+  },
+  {
+    "id": 9,
+    "name": "French fries",
+    "price": 40,
+    "image": "https://www.corriecooks.com/wp-content/uploads/2018/10/Instant-Pot-French-Fries-new-500x500.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 10,
+    "name": "Pani puri",
+    "price": 20,
+    "image": "https://topicimages.mrowl.com/large/prithvi_c/indian_delicacies/snackitems/panipuri_2.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 11,
+    "name": "Butter naan",
+    "price": 50,
+    "image": "https://www.munatycooking.com/wp-content/uploads/2016/10/butter-naan-without-yeast-2.jpg",
+    "category": "food"
+  },
+  {
+    "id": 12,
+    "name": "Paneer butter masala",
+    "price": 120,
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/03/Best-Paneer-Butter-Masala-Recipe.jpg",
+    "category": "food"
+  },
+  {
+    "id": 13,
+    "name": "Sambar rice",
+    "price": 50,
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/10/sambar-rice-recipe-1a.jpg",
+    "category": "food"
+  },
+  {
+    "id": 14,
+    "name": "Fish fry",
+    "price": 100,
+    "image": "https://yummyindiankitchen.com/wp-content/uploads/2017/11/how-to-fry-fish-andhra-style-chepala-vepudu.jpg",
+    "category": "sidedish"
+  },
+  {
+    "id": 15,
+    "name": "Paneer pizza",
+    "price": 120,
+    "image": "https://i0.wp.com/foodoncall.co.in/wp-content/uploads/2017/10/chatpata-paneer-pizza.jpg?fit=600%2C600&ssl=1",
+    "category": "food"
+  },
+  {
+    "id": 16,
+    "name": "Baby corn pizza",
+    "price": 100,
+    "image": "http://eatnshoppe.com/wp-content/uploads/2019/03/baby-corn-pizza.jpg",
+    "category": "food"
+  },
+  {
+    "id": 17,
+    "name": "Veg-Sandwich",
+    "price": 60,
+    "image": "https://vaya.in/recipes/wp-content/uploads/2019/02/Tandoori-Veg-Sandwich.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 18,
+    "name": "Chicken-lollipop",
+    "price": 140,
+    "image": "https://burmakadai.in/wp-content/uploads/2018/04/chicken-lollipop-1.jpg",
+    "category": "sidedish"
+  },
+  {
+    "id": 19,
+    "name": "Meals",
+    "price": 90,
+    "image": "https://www.simplyhomefood.com/wp-content/uploads/veg-meals.jpg",
+    "category": "food"
+  },
+  {
+    "id": 20,
+    "name": "Mini meals",
+    "price": 70,
+    "image": "http://www.hotelsuvai.com/wp-content/uploads/2017/01/Mini-Tiffin.jpg",
+    "category": "food"
+  },
+  {
+    "id": 21,
+    "name": "Poori",
+    "price": 40,
+    "image": "http://www.tasty-indian-recipes.com/wp-content/uploads/2015/01/Dry-Aloo-Poori.jpg",
+    "category": "food"
+  },
+  {
+    "id": 22,
+    "name": "Dosa",
+    "price": 40,
+    "image": "https://recipes.timesofindia.com/photo/53239433.cms",
+    "category": "food"
+  },
+  {
+    "id": 23,
+    "name": "Idly",
+    "price": 20,
+    "image": "https://english.mathrubhumi.com/polopoly_fs/1.1320909.1472644162!/image/image.jpg_gen/derivatives/landscape_894_577/image.jpg",
+    "category": "food"
+  },
+  {
+    "id": 24,
+    "name": "Chapathi",
+    "price": 30,
+    "image": "https://i.pinimg.com/originals/19/83/90/1983906d2fa65f621146bcc6c58e7980.jpg",
+    "category": "food"
+  },
+  {
+    "id": 25,
+    "name": "Tea",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Masala_Chai.JPG/640px-Masala_Chai.JPG",
+    "category": "drinks"
+  },
+  {
+    "id": 26,
+    "name": "Coffee",
+    "price": 12,
+    "image": "https://content.jdmagicbox.com/comp/mumbai/58/022p1964458/catalogue/philips-coffee-and-tea-fort-mumbai-coffee-powder-retailers-1571llp.jpg",
+    "category": "drinks"
+  },
+  {
+    "id": 27,
+    "name": "Veg Roll",
+    "price": 10,
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2015/06/Spring-Roll-5.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 28,
+    "name": "Samosa",
+    "price": 20,
+    "image": "https://www.africanbites.com/wp-content/uploads/2018/10/IMG_9223.jpg",
+    "category": "snacks"
+  },
+  {
+    "id": 29,
+    "name": "Orange Juice",
+    "price": 50,
+    "image": "https://www.earthfoodandfire.com/wp-content/uploads/2018/04/Homemade-Orange-Juice.jpg",
+    "category": "juice"
+  },
+  {
+    "id": 30,
+    "name": "Apple juice",
+    "price": 50,
+    "image": "https://sipsmarter.org/wp-content/uploads/2018/08/AdobeStock_52939276.jpeg",
+    "category": "juice"
+  },
+  {
+    "id": 31,
+    "name": "Mango juice",
+    "price": 30,
+    "image": "https://images.lifealth.com/uploads/2018/03/mango-juice-1.jpg",
+    "category": "juice"
+  },
+  {
+    "id": 32,
+    "name": "Sapota juice",
+    "price": 30,
+    "image": "http://cdn.cdnparenting.com/articles/2018/06/590645363-H-1024x700.jpg",
+    "category": "juice"
+  }
+]
